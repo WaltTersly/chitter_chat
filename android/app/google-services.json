@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407544077327",
+    "project_id": "chitter-chat-16f9a",
+    "storage_bucket": "chitter-chat-16f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407544077327:android:b7fd2888ca1b885ddf177a",
+        "android_client_info": {
+          "package_name": "chitter.tersly.chitter_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjWxuc7dJSMWfNNmNNYuA6vAbS3wP3fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
